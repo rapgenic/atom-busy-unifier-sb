@@ -1,10 +1,9 @@
 {
   "name": "atom-busy-unifier-sb",
   "main": "./lib/index",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Bridge between busy and busy-signal",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/rapgenic/atom-busy-unifier-sb",
   "license": "GPL-3.0",
   "engines": {
