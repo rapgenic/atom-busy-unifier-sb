@@ -1,7 +1,7 @@
 {
   "name": "atom-busy-unifier-sb",
   "main": "./lib/index",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Bridge between busy and busy-signal (for whom is using steelbrain's busy-signal)",
   "keywords": [],
   "repository": "https://github.com/rapgenic/atom-busy-unifier-sb",
